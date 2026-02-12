@@ -1,0 +1,15 @@
+C:\Student\Nemaki\Unity\2027last\2027lastApp\bin\Debug\net8.0\2027lastApp.exe
+C:\Student\Nemaki\Unity\2027last\2027lastApp\bin\Debug\net8.0\2027lastApp.deps.json
+C:\Student\Nemaki\Unity\2027last\2027lastApp\bin\Debug\net8.0\2027lastApp.runtimeconfig.json
+C:\Student\Nemaki\Unity\2027last\2027lastApp\bin\Debug\net8.0\2027lastApp.dll
+C:\Student\Nemaki\Unity\2027last\2027lastApp\bin\Debug\net8.0\2027lastApp.pdb
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.AssemblyInfoInputs.cache
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.AssemblyInfo.cs
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.csproj.CoreCompileInputs.cache
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.sourcelink.json
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.dll
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\refint\2027lastApp.dll
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.pdb
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\2027lastApp.genruntimeconfig.cache
+C:\Student\Nemaki\Unity\2027last\2027lastApp\obj\Debug\net8.0\ref\2027lastApp.dll
