@@ -1,3 +1,6 @@
+以下のgithubのリポジトリにアクセスし、自分のPCにクローン後中の問題を解きなさい
+https://github.com/pdjxt628/2027last.git
+
 ①自分のブランチを学籍番号の名前でmainから作成しなさい
 
 ②ローカルリポジトリにfetch,pullをかけなさい
@@ -15,3 +18,21 @@ ID：root
 Pass：ae21215926
 
 ⑥上記2つのアプリケーションを自分のブランチのリポジトリにpushしなさい
+
+insert into 2027last_memoapp (name, content) VALUES (test, "");
+
+CREATE TABLE 2027last_memoapp (
+	name VARCHAR(50) PRIMARY KEY,
+	content VARCHAR(2000)
+);
+
+CREATE TABLE 2027last_memoapp_simple (
+    id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	content VARCHAR(2000)
+);
+
+CREATE TABLE 2027last_memoapp_simple (
+	content VARCHAR(2000)
+);
+
+update 2027last_memoapp set content="test" where name = "test"
