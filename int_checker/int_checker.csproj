@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66A081E6-AA66-4AD0-9C90-3985971F0674}</ProjectGuid>
+    <ProjectGuid>{272C12B5-3C59-413F-BCB5-88E5C91B05EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>it_last</RootNamespace>
-    <AssemblyName>it_last</AssemblyName>
+    <RootNamespace>int_checker</RootNamespace>
+    <AssemblyName>int_checker</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
