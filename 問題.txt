@@ -1,3 +1,6 @@
+以下のgithubのリポジトリにアクセスし、自分のPCにクローン後中の問題を解きなさい
+https://github.com/pdjxt628/2027last.git
+
 ①自分のブランチを学籍番号の名前でmainから作成しなさい
 
 ②ローカルリポジトリにfetch,pullをかけなさい
