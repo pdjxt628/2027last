@@ -24,8 +24,6 @@ namespace Form1
             cmd.ExecuteNonQuery();
 
             con.Close();
-
-            MessageBox.Show("í«â¡ÇµÇ‹ÇµÇΩ");
         }
 
 
@@ -43,8 +41,6 @@ namespace Form1
                 cmd.ExecuteNonQuery();
 
                 con.Close();
-
-                MessageBox.Show("çÌèúÇµÇ‹ÇµÇΩ");
             }
         }
 
