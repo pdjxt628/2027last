@@ -72,6 +72,7 @@
             textBox2.Font = new Font("Yu Gothic UI", 12F);
             textBox2.Location = new Point(142, 403);
             textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
             textBox2.Size = new Size(510, 29);
             textBox2.TabIndex = 3;
             textBox2.TextAlign = HorizontalAlignment.Center;
