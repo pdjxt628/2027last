@@ -3,52 +3,45 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
-using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml.Linq;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace memo_app
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
         private string connStr = "server=172.16.2.26;user id=ichiru;password=GAMEshitai_5293;database=ichiru";
 
-        string inputText;
+        public static string currentMemo;
 
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
-            Load();
+            Load_Content();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Save(inputText);
+            var form1 = new Form1();
+            form1.Show();
+            this.Hide();
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
+            Save();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            inputText = textBox1.Text;
-        }
-
-        void Save(string content)
+        void Save()
         {
             MySqlConnection conn = new MySqlConnection(connStr);
             try {
                 conn.Open();
                 DataTable tbl = new DataTable();
-                MySqlDataAdapter dataAdp = new MySqlDataAdapter($"update 2027last_memoapp_simple set content=\"{content}\"", conn);
+                MySqlDataAdapter dataAdp = new MySqlDataAdapter($"update 2027last_memoapp set content=\"{textBox1.Text}\" where name = \"{currentMemo}\"", conn);
                 dataAdp.Fill(tbl);
                 conn.Close();
             }
@@ -57,15 +50,15 @@ namespace memo_app
             }
         }
 
-        void Load()
+        void Load_Content()
         {
             MySqlConnection conn = new MySqlConnection(connStr);
             try {
                 conn.Open();
                 DataTable tbl = new DataTable();
-                MySqlDataAdapter dataAdp = new MySqlDataAdapter($"select content from 2027last_memoapp_simple", conn);
+                MySqlDataAdapter dataAdp = new MySqlDataAdapter($"select content from 2027last_memoapp where name = \"{currentMemo}\"", conn);
                 dataAdp.Fill(tbl);
-                textBox1.Text = tbl.Rows[0][0];
+                textBox1.Text = tbl.Rows[0][0].ToString();
                 conn.Close();
             }
             catch (MySqlException mse) {
