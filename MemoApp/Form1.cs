@@ -7,7 +7,7 @@ namespace MemoApp
 {
     public partial class Form1 : Form
     {
-        string connStr = "server=172.16.2.26;user=BozkurtIlker;password=112233;database=BozkurtIlker";
+        string connStr = "server=172.16.2.26;user=yoshida;password=TcaPG-1983;database=Yoshida";
 
 
         public Form1()

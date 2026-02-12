@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\",
+  "WorkspaceRootPath": "C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|c:\\users\\student\\downloads\\c\u30C6\u30B9\u30C8\\2027last\\memoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|c:\\users\\pg401\\documents\\github\\2027last\\memoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|c:\\users\\student\\downloads\\c\u30C6\u30B9\u30C8\\2027last\\memoapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\link.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|c:\\users\\pg401\\documents\\github\\2027last\\memoapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDDDE829-E78F-006B-E31E-3317BE4F8FE3}|MemoApp.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\a.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\scriptr.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\link.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\a.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,11 +31,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:00:06.16Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "a.snippet",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\a.snippet",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\a.snippet",
@@ -43,7 +61,8 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\a.snippet",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
-              "WhenOpened": "2026-02-12T06:33:21.595Z"
+              "WhenOpened": "2026-02-12T06:33:21.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,11 +74,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\scriptr.snippet",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
-              "WhenOpened": "2026-02-12T06:33:20.676Z"
+              "WhenOpened": "2026-02-12T06:33:20.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "link.snippet",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\link.snippet",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\link.snippet",
@@ -67,15 +87,16 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\Web\\Snippets\\HTML\\1041\\HTML\\link.snippet",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
-              "WhenOpened": "2026-02-12T06:33:16.99Z"
+              "WhenOpened": "2026-02-12T06:33:16.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,28 +105,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\Users\\pg401\\Documents\\GitHub\\2027last\\MemoApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T04:55:25.763Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\student\\Downloads\\C\u30C6\u30B9\u30C8\\2027last\\MemoApp\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:00:06.16Z",
-              "EditorCaption": ""
             }
           ]
         }
