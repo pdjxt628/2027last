@@ -1,0 +1,7 @@
+C:\Users\pg401\fran\git\2027last\2027last\2027last\bin\Debug\2027last.exe.config
+C:\Users\pg401\fran\git\2027last\2027last\2027last\bin\Debug\2027last.exe
+C:\Users\pg401\fran\git\2027last\2027last\2027last\bin\Debug\2027last.pdb
+C:\Users\pg401\fran\git\2027last\2027last\2027last\obj\Debug\2027last.csproj.AssemblyReference.cache
+C:\Users\pg401\fran\git\2027last\2027last\2027last\obj\Debug\2027last.csproj.CoreCompileInputs.cache
+C:\Users\pg401\fran\git\2027last\2027last\2027last\obj\Debug\2027last.exe
+C:\Users\pg401\fran\git\2027last\2027last\2027last\obj\Debug\2027last.pdb
