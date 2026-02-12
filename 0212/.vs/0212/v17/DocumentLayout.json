@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pg401\\source\\repos\\0212\\",
+  "WorkspaceRootPath": "C:\\Users\\pg401\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\2027last\\0212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7AA96D2-B294-4F8A-8217-ACE005111EF7}|0212\\0212.csproj|c:\\users\\pg401\\source\\repos\\0212\\0212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7AA96D2-B294-4F8A-8217-ACE005111EF7}|0212\\0212.csproj|c:\\users\\pg401\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\github\\2027last\\0212\\0212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7AA96D2-B294-4F8A-8217-ACE005111EF7}|0212\\0212.csproj|solutionrelative:0212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pg401\\source\\repos\\0212\\0212\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\2027last\\0212\\0212\\Program.cs",
               "RelativeDocumentMoniker": "0212\\Program.cs",
-              "ToolTip": "C:\\Users\\pg401\\source\\repos\\0212\\0212\\Program.cs",
+              "ToolTip": "C:\\Users\\pg401\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\2027last\\0212\\0212\\Program.cs",
               "RelativeToolTip": "0212\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T05:03:10.729Z",
               "EditorCaption": ""
