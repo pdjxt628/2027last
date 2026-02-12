@@ -1,4 +1,4 @@
-using MySql.Data.MySqlClient;
+using MySqlConnector;
 using System;
 using System.Data;
 using System.Windows.Forms;
@@ -16,7 +16,7 @@ namespace Form1
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            MySqlConnection con = new MySqlConnection(conStr);
+            MySqlConnection con = new MySqlConnection(connectionString);
             con.Open();
 
             string sql = "INSERT INTO memo (content) VALUES ('" + txtMemo.Text + "')";
@@ -33,7 +33,7 @@ namespace Form1
             {
                 int id = Convert.ToInt32(dataGridView1.CurrentRow.Cells[0].Value);
 
-                MySqlConnection con = new MySqlConnection(conStr);
+                MySqlConnection con = new MySqlConnection(connectionString);
                 con.Open();
 
                 string sql = "DELETE FROM memo WHERE id=" + id;
@@ -51,7 +51,7 @@ namespace Form1
 
         private void LoadData()
         {
-            MySqlConnection con = new MySqlConnection(conStr);
+            MySqlConnection con = new MySqlConnection(connectionString);
             con.Open();
 
             string sql = "SELECT * FROM memo";
