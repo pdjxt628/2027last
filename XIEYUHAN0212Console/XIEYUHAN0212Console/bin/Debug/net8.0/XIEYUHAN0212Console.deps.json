@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "XIEYUHAN0212Console/1.0.0": {
+        "runtime": {
+          "XIEYUHAN0212Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XIEYUHAN0212Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
