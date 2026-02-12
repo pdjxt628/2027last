@@ -1,0 +1,15 @@
+C:\GedsWork\GitRepository\2027last\22503036\bin\Debug\net10.0\22503036.exe
+C:\GedsWork\GitRepository\2027last\22503036\bin\Debug\net10.0\22503036.deps.json
+C:\GedsWork\GitRepository\2027last\22503036\bin\Debug\net10.0\22503036.runtimeconfig.json
+C:\GedsWork\GitRepository\2027last\22503036\bin\Debug\net10.0\22503036.dll
+C:\GedsWork\GitRepository\2027last\22503036\bin\Debug\net10.0\22503036.pdb
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.GeneratedMSBuildEditorConfig.editorconfig
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.AssemblyInfoInputs.cache
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.AssemblyInfo.cs
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.csproj.CoreCompileInputs.cache
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.sourcelink.json
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.dll
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\refint\22503036.dll
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.pdb
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\22503036.genruntimeconfig.cache
+C:\GedsWork\GitRepository\2027last\22503036\obj\Debug\net10.0\ref\22503036.dll
