@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pg401\\source\\repos\\window0212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC59C87-D3A2-4EBF-B142-434C5342D1ED}|window0212\\window0212.csproj|c:\\users\\pg401\\source\\repos\\window0212\\window0212\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC59C87-D3A2-4EBF-B142-434C5342D1ED}|window0212\\window0212.csproj|solutionrelative:window0212\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC59C87-D3A2-4EBF-B142-434C5342D1ED}|window0212\\window0212.csproj|c:\\users\\pg401\\source\\repos\\window0212\\window0212\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBC59C87-D3A2-4EBF-B142-434C5342D1ED}|window0212\\window0212.csproj|solutionrelative:window0212\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\source\\repos\\window0212\\window0212\\Form1.cs",
+              "RelativeDocumentMoniker": "window0212\\Form1.cs",
+              "ToolTip": "C:\\Users\\pg401\\source\\repos\\window0212\\window0212\\Form1.cs",
+              "RelativeToolTip": "window0212\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:14:18.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\pg401\\source\\repos\\window0212\\window0212\\Form1.cs",
+              "RelativeDocumentMoniker": "window0212\\Form1.cs",
+              "ToolTip": "C:\\Users\\pg401\\source\\repos\\window0212\\window0212\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "window0212\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:10:05.329Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
