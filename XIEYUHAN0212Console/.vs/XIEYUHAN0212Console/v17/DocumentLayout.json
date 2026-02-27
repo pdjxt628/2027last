@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pg401\\source\\repos\\XIEYUHAN0212Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0050C5-5668-4C17-BE2F-EF482EACF27B}|XIEYUHAN0212Console\\XIEYUHAN0212Console.csproj|c:\\users\\pg401\\source\\repos\\xieyuhan0212console\\xieyuhan0212console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0050C5-5668-4C17-BE2F-EF482EACF27B}|XIEYUHAN0212Console\\XIEYUHAN0212Console.csproj|solutionrelative:xieyuhan0212console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\source\\repos\\XIEYUHAN0212Console\\XIEYUHAN0212Console\\Program.cs",
+              "RelativeDocumentMoniker": "XIEYUHAN0212Console\\Program.cs",
+              "ToolTip": "C:\\Users\\pg401\\source\\repos\\XIEYUHAN0212Console\\XIEYUHAN0212Console\\Program.cs",
+              "RelativeToolTip": "XIEYUHAN0212Console\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:55:52.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

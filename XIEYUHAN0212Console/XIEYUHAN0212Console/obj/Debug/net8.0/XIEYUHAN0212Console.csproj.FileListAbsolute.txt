@@ -1,0 +1,14 @@
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\bin\Debug\net8.0\XIEYUHAN0212Console.exe
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\bin\Debug\net8.0\XIEYUHAN0212Console.deps.json
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\bin\Debug\net8.0\XIEYUHAN0212Console.runtimeconfig.json
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\bin\Debug\net8.0\XIEYUHAN0212Console.dll
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\bin\Debug\net8.0\XIEYUHAN0212Console.pdb
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\XIEYUHAN0212Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\XIEYUHAN0212Console.AssemblyInfoInputs.cache
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\XIEYUHAN0212Console.AssemblyInfo.cs
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\XIEYUHAN0212Console.csproj.CoreCompileInputs.cache
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\XIEYUHAN0212Console.dll
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\refint\XIEYUHAN0212Console.dll
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\XIEYUHAN0212Console.pdb
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\XIEYUHAN0212Console.genruntimeconfig.cache
+C:\Users\pg401\source\repos\XIEYUHAN0212Console\XIEYUHAN0212Console\obj\Debug\net8.0\ref\XIEYUHAN0212Console.dll
